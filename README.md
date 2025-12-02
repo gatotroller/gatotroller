@@ -4,7 +4,7 @@
 
 ***About me***
 
-I am an actuarial science student, about to finish my degree. I am enthusiastic about mathematics and programming, and I enjoy working on things that I find both entertaining and challenging, as they provide opportunities to learn.
+I am an actuary. I am enthusiastic about mathematics and programming, and I enjoy working on things that I find both entertaining and challenging, as they provide opportunities to learn.
 * **I am interested in Data Analysis, Machine Learning and APP Development**
 - 🌱 I’m currently learning ...
   - Python
