@@ -62,7 +62,7 @@ I'm a **Data Engineer** from Querétaro, Mexico, with a background in actuarial 
 
 ### Featured Project
 
-#### [Steam Analytics — Microsoft Fabric](https://github.com/gatotroller)
+#### [Steam Analytics — Microsoft Fabric](https://github.com/gatotroller/steam-analytics-fabric)
 An enterprise-grade data engineering project built on **Microsoft Fabric** with **medallion architecture** (Bronze → Silver → Gold).
 
 **Highlights:**
