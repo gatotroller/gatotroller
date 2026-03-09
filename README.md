@@ -11,6 +11,11 @@
 
 **Data Engineer** based in Querétaro, Mexico, with a background in actuarial science. I design and build data pipelines, optimize complex queries, and implement data quality frameworks for enterprise clients. Certified in **Microsoft Fabric (DP-700)** and **Power BI (PL-300)**.
 
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-DP--700_Fabric_Data_Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft-PL--300_Power_BI_Data_Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</p>
+
 ---
 
 ### 🔨 What I'm Building
